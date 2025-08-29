@@ -21,7 +21,7 @@ header {
     justify-content: center;
 }
 
-.death img:hover {
+img {
    height: 200px;
    opacity: 0.5;
 }
