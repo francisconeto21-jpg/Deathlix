@@ -1,0 +1,44 @@
+body {
+   color:white;
+   background:black;
+   margin: 0px;
+   margin-bottom: 100px;
+}
+
+
+header {
+   border-bottom: solid 4px yellow;
+   padding: 40px;
+   font-size: 35px;
+   color:darkred;
+}
+
+.letras {
+    background: darkgoldenrod;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.death img:hover {
+   height: 200px;
+   opacity: 0.5;
+}
+
+.videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-top: 50px;
+}
+
+.categoria h2{
+   color:darkred;
+}
+
